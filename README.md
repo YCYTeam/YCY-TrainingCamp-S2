@@ -30,14 +30,14 @@ Three.js元宇宙实战特训营
 - **文章作业** 
     
     将自己的学习心得、练习作品用图文的形式分享到`掘金`，`知乎`，`思否`，`CSDN`
-    > 标题最后必须添加文字 `| 大帅老猿threejs特训营`
+    > 标题最后必须添加文字 `| 大帅老猿threejs特训`
     > 
-    > 文章最后必须添加文字 `加入猿创营 (v:dashuailaoyuan)，一起交流学习`
+    > 文章最后可以根据平台规则选择性添加文字 `加入猿创营 (v:dashuailaoyuan)，一起交流学习`
     
 - **视频作业**
 
     将自己的学习心得、练习作品用视频的形式分享到`哔哩哔哩`
-    > 标题最后必须添加文字 `| 大帅老猿threejs特训营`
+    > 标题最后必须添加文字 `| 大帅老猿threejs特训`
     > 
     > 视频封面和视频前3秒请添加下方图片
     > ![threejs开发特训营作业封面.jpg](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dca88cca81814d029daf41ba32259316~tplv-k3u1fbpfcp-watermark.image?)
