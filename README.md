@@ -7,7 +7,7 @@ Three.js元宇宙实战特训营
 
 直播间：https://live.bilibili.com/26555420
 
-- 12月16日 20:00-22:00：**Three.js基础入门**[https://www.bilibili.com/video/BV14D4y187Ab](直播回放)
+- 12月16日 20:00-22:00：**Three.js基础入门**[直播回放](https://www.bilibili.com/video/BV14D4y187Ab)
 - 12月17日 20:00-22:00：**Blender美术协作基础**
 - 12月18日 20:00-22:00：**搭建元宇宙基础交互**
 
