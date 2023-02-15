@@ -8,8 +8,8 @@ Three.js元宇宙实战特训营
 直播间：https://live.bilibili.com/26555420
 
 - 12月16日 20:00-22:00：**Three.js基础入门** （[直播回放](https://www.bilibili.com/video/BV14D4y187Ab)）
-- 12月17日 20:00-22:00：**Blender美术协作基础**
-- 12月18日 20:00-22:00：**搭建元宇宙基础交互**
+- 12月17日 20:00-22:00：**Blender美术协作基础** （[直播回放](https://www.bilibili.com/video/BV1eG411P7Pn)）
+- 12月18日 20:00-22:00：**搭建元宇宙基础交互** （[直播回放](https://www.bilibili.com/video/BV1EK411z78e)）
 
 直播会录屏将在第二天上传至 [@web3D胖达](https://space.bilibili.com/352979041) 的B站空间，点个关注不迷路：p
 
